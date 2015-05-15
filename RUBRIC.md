@@ -1,4 +1,4 @@
-# CALCULATOR RUBRIC
+# Loraine Kanervisto - CALCULATOR RUBRIC
 
 1=Beginner, 2=Proficient, 3=Master
 
